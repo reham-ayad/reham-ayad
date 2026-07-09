@@ -2,47 +2,61 @@
 
 # Hi 👋, I'm Reham Ayad
 
-### 💻 Front-End Developer (Angular)
-Passionate about building modern, responsive, and user-friendly web applications.
+###  Front-End Developer | Angular Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Front-End+Developer;Angular+Developer;TypeScript+%7C+JavaScript;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Front-End+Developer;Angular+Developer;TypeScript+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 Fresh Graduate in Computer Science
-- 💙 Passionate about Front-End Development
-- 🌱 Currently learning **Node.js** & improving my **Angular** skills
-- 🚀 Interested in building scalable and responsive web applications
-- 💼 Looking for Front-End Developer opportunities
-- 📫 Reach me: **YOUR_EMAIL**
+🎓 Fresh Graduate in Computer Science.
+
+💻 Passionate about Front-End Development and creating responsive, user-friendly web applications.
+
+🌱 Currently learning **Node.js** while improving my **Angular** skills.
+
+🚀 Interested in building modern web applications and continuously learning new technologies.
+
+💼 Open to Front-End Developer opportunities.
+
+📍 Egypt
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular" />
-</p>
-
-### Back-End
+## 🌐 Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,angular" />
 </p>
 
-### Database
+## ⚙️ Back-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" />
 </p>
 
-### Tools
+## 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</p>
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python" />
+</p>
+
+## 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
@@ -50,46 +64,66 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 ### 🩸 Blood Donation System
 
-A web application that helps users find blood donors and manage donation requests.
+A responsive web application that helps users find blood donors and manage blood donation requests.
 
 ### 💄 Skin & Hair Care Assistant
 
-AI-powered assistant using RAG to answer questions about skin and hair care.
+An AI-powered assistant built using RAG to answer questions about skin and hair care.
 
 ### 🛒 Angular E-Commerce
 
-Responsive e-commerce website built with Angular.
+A responsive e-commerce web application developed using Angular.
+
+### 💧 Smart Water Level Indicator
+
+Arduino-based smart water level monitoring and automatic motor control system.
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
+
+---
+
+# 📊 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -98,6 +132,8 @@ Responsive e-commerce website built with Angular.
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+### 💙 Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
 
 </div>
