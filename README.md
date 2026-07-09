@@ -104,25 +104,17 @@ Arduino-based smart water level monitoring and automatic motor control system.
 
 ---
 
-# 📊 Profile Views
 
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/reham24">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ryhamyad9@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
