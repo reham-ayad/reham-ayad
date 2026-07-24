@@ -68,15 +68,15 @@
 
 # 📂 Featured Projects
 
-### 🩸 Blood Donation System
+### 🩸Mealify
 
 Responsive web application for managing blood donation requests.
 
-### 💄 Skin & Hair Care Assistant
+###  Angular E-Commerce
 
-AI-powered assistant built using RAG.
+Developed an e-commerce platform using Angular 19 and TypeScript
 
-### 🛒 Angular E-Commerce
+### Recipe App
 
 Responsive e-commerce web application built with Angular.
 
