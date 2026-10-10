@@ -91,7 +91,7 @@ A responsive application for exploring recipes through a clean and intuitive int
 
 ### Let's Connect
 
-Open to junior Frontend / Angular Developer opportunities.
+Open to junior Frontend || Backend ||Full-Stack Developer opportunities.
 
 <a href="https://linkedin.com/in/reham24">
 <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white" />
