@@ -64,8 +64,9 @@ A job platform with job listings, search, filtering, authentication, application
 
 **Tech:** Angular · TypeScript · Node.js · Express.js · MongoDB
 
-[Source Code](https://github.com/reham-ayad/HireFlow)
 
+[Live Demo](https://hire-flow-job-platform.vercel.app/).
+[Source Code](https://github.com/reham-ayad/HireFlow)
 ---
 
 ### 03. Recipe App
