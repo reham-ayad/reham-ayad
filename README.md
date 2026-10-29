@@ -70,13 +70,13 @@ A job platform with job listings, search, filtering, authentication, application
 [Source Code](https://github.com/reham-ayad/HireFlow)
 ---
 
-### 03. Recipe App
+### 03. StorePilot — Store Management SaaS
 
-A responsive application for exploring recipes through a clean and intuitive interface.
+is a full-stack SaaS platform designed to help store owners manage their online businesses from a centralized dashboard. It provides tools for managing stores, products, orders, and subscriptions, alongside a dedicated Super Admin dashboard for monitoring platform-wide activity and performance.
 
-**Tech:** Angular · TypeScript · HTML · CSS
+**Tech:** Angular · TypeScript · Node.js · Express.js · MongoDB
 
-[Live Demo](https://mealify-psi.vercel.app/) · [Source Code](https://github.com/reham-ayad/Recipes)
+[Live Demo](https://meal.vercel.app/) · [Source Code](https://github.com/reham-ayad/StorePilot)
 
 ---
 
